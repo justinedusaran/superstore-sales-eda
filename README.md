@@ -2,9 +2,10 @@
 This project analyzes sales trends from the Superstore dataset using Python and Pandas.
 
 ## 📊 Features:
+- Sales Distribution
 - Sales trends over time
 - Best-selling products
-- Sales distribution analysis
+- Total Profit by Category
 - Top-performing cities
 
 ## 📁 Dataset:
